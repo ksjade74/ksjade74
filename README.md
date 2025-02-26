@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, React...**
 
-- 👨‍💻 My Website [ksodesign.com](ksodesign.com)  [Previous](ksodesign.cafe24.com)
+- 👨‍💻 My Website <a href="ksodesign.com" target="_blank">ksodesign.com</a>  <a href="ksodesign.cafe24.com" target="_blank">ksodesign.cafe24.com</a>
 
 - 📫 How to reach me **ksodesign1@naver.com**
 
