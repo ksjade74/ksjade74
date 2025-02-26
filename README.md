@@ -5,10 +5,12 @@
 
 - 🌱 I’m currently learning **Javascript, React...**
 
-- 👨‍💻 My Website <a href="ksodesign.com" target="_blank">ksodesign.com</a>  <a href="ksodesign.cafe24.com" target="_blank">ksodesign.cafe24.com</a>
+- 👨‍💻 My Website 
 
 - 📫 How to reach me **ksodesign1@naver.com**
 
+<h3 align="left">My Website:</h3>
+<a href="ksodesign.com" target="_blank">ksodesign.com</a>  <a href="ksodesign.cafe24.com" target="_blank">ksodesign.cafe24.com</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ksjade74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ksjade74" height="30" width="40" /></a>
