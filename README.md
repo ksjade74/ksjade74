@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ks Jade</h1>
-<h3 align="center">A passionate frontend developer from Korea</h3>
+<h1>Hi 👋, I'm ks Jade</h1>
+<h3>A passionate frontend developer from Korea</h3>
 
 - 🔭 I’m currently working on **ksodesign Free Templates**
 
