@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, React...**
 
-- 👨‍💻 All of my projects are available at [ksodesign.com](ksodesign.com)
+- 👨‍💻 My Website [ksodesign.com](ksodesign.com)  [Previous](ksodesign.cafe24.com)
 
 - 📫 How to reach me **ksodesign1@naver.com**
 
